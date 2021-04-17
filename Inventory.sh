@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Author: Mariama
-if [ ? -eq 0 ]
+if [ $? -eq 0 ]
 then
 echo "success"
 else
