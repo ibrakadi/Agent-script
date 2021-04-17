@@ -1,3 +1,3 @@
 !#/bin/bash
 
-Author: Mariama
+#Author: Mariama
